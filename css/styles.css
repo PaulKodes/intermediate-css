@@ -1,0 +1,11 @@
+.text-box {
+    display: block;
+    width: 200px;
+}
+.text-box-nosizing {
+    border: 5px solid black;
+    padding: 45px;
+}
+.text-box-sizing {
+    box-sizing: border-box;
+}
