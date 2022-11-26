@@ -1,11 +1,11 @@
-.text-box {
+.test-box {
     display: block;
     width: 200px;
 }
-.text-box-nosizing {
+.test-box-nosizing {
     border: 5px solid black;
     padding: 45px;
 }
-.text-box-sizing {
+.test-box-sizing {
     box-sizing: border-box;
 }
