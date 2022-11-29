@@ -3,9 +3,9 @@
     float: left;
     font-size: 1em;
     padding: 2%;
-    width: 21%;
     box-sizing: border-box;
-    margin: 2%;
+    margin: 40px 1% 0;
+    width: 23%;
 }
 .bio-wrapper {
     font-size: 24px;
@@ -25,4 +25,13 @@
 }
 .social-list > li {
     display: inline-block;
+}
+.bio-box > img {
+    width: 255px;
+    height: 280px;
+    margin-bottom: -70px;
+}
+.bio-box > h3 {
+    text-align: center;
+    color: white;
 }
