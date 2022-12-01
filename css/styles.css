@@ -41,16 +41,15 @@
     color: #000;
 
 }
-.bio-box > img {
-    width: 255px;
-    height: 280px;
-    margin-bottom: -70px;
+.bio-box img {
+    width: 100%;
 }
-.bio-box > h3 {
+.bio-box h3 {
     text-align: center;
     color: white;
 }
 .full-hero {
     background-color: darkolivegreen;
     height: 40vh;
+    font-size: 1.5em;
 }
