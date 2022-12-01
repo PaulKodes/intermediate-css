@@ -2,7 +2,7 @@
     border: 1px solid black;
     float: left;
     font-size: 1em;
-    padding: 2%;
+    padding: 0 2%;
     box-sizing: border-box;
     margin: 40px 1% 0;
     width: 23%;
@@ -26,12 +26,13 @@
 .social-list > li {
     display: inline-block;
 }
-.bio-box > img {
-    width: 255px;
-    height: 280px;
-    margin-bottom: -70px;
+.bio-box img {
+    width: 100%;
 }
-.bio-box > h3 {
+.bio-box h3 {
     text-align: center;
     color: white;
+    font-size: 1.5em;
+    margin: -50px 0 1em;
+    opacity: 0.8;
 }
